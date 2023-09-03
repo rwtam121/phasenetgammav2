@@ -2,7 +2,7 @@ This repository provides local testing scripts used for 1) `Earlier Phasenet`, 2
 
 ### Latest Phasenet (currently used in Quakes2AWS): 
 
-**Summary**: I trust this Phasenet’s results since it matches Weiqiang’s results (in terms of the pick arrival time and finding all of the relevant picks). But this code also runs slower. It utilizes a MSEED conversion of the Quakes2AWS realtime data, and its coding style is rooted in research-type testing. Elements of this code are derived from Weiqiang Zhu’s code found here: https://github.com/AI4EPS/PhaseNet/blob/ac2b736f514735bd058860033f4cc89c99593f4b/phasenet/predict.py 
+**Summary**: I trust this Phasenet’s results since it matches Weiqiang’s results (in terms of the pick arrival time and finding all of the relevant picks). But this code also runs slower. It utilizes a MSEED conversion of the Quakes2AWS realtime data, and its coding style is rooted in research-type testing. Elements of this code are derived from Weiqiang Zhu’s code found [here](https://github.com/AI4EPS/PhaseNet/blob/ac2b736f514735bd058860033f4cc89c99593f4b/phasenet/predict.py)
 
 **To run:**
 
